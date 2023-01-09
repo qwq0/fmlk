@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "target": "ES2022",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "./src/main.js",
+        "./src/throttleCall.js",
+        "./src/bufferEqual.js"
+    ]
+}
