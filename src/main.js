@@ -20,7 +20,7 @@ export class ObjStorage
      * 当前对象
      * @type {Object}
      */
-    obj = {};
+    obj = null;
 
     /**
      * jsob上下文

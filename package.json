@@ -1,6 +1,6 @@
 {
 	"name": "fmlk",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Object and File Linker",
 	"main": "./src/main.js",
 	"type": "module",
